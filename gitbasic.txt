@@ -1,0 +1,17 @@
+git and github
+--------------
+version control management/system vcm (github)
+
+remote repository (can be accessed by everyone)                
+
+git operations:
+---------------
+1. push: local repo to remote repository | project and new changes
+2. clone: remote repo to local repo | exact copy of project
+3. pull: remote repo to local repo | new changes
+
+
+1. push operation
+------------------
+1. git add: local storage to staging area
+2. git commit: staging area to local repo
